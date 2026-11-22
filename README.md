@@ -185,10 +185,6 @@ Contributions are welcome! Areas for improvement:
 - Complete UI implementation
 - Cross-platform support
 
-## Support
-
-For issues and feature requests, please [create an issue on GitHub].
-
 ---
 
 **Note**: This plugin requires an active internet connection for initial data loading. The CamDB service provides camera specifications for educational and professional use.
